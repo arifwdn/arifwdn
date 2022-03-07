@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arifwdn
-- 👀 I’m interested in IT specially web programming
+- 👀 I’m interested in IT especially web programming
 - 🌱 I’m currently learning Javascript and PHP
 
 <!---
