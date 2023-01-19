@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and PHP
 
 ## Stats🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifwdn&theme=nightowl)](https://git.io/streak-stats)
+![arifwdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifwdn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwdn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 personal-web : [lynk/arifwdn](https://lynk.id/arifwdn) || [Github Pages](https://arifwdn.github.io) || [Blog](https://codecodecppsaya.blogspot.com) || [CV](https://arifwdn.github.io/cv)
