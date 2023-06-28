@@ -1,7 +1,7 @@
 # Hello World!
 - 👋 I’m [@arifwdn](https://instagram.com/arifwdn)
 - 👀 I’m interested in IT especially web programming
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript and Python
 
 ## Stats🔥
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwdn)
